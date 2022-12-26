@@ -1,0 +1,60 @@
+﻿<Page x:Class="ShippingCompany.Page.AddPage.AddCruise"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ShippingCompany.Page.AddPage"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddCruise">
+
+    <Grid>
+        <StackPanel Width="320"
+                    VerticalAlignment="Center">
+            <GroupBox Header="Введите путь:" BorderThickness="0">
+                <TextBox
+                    Name="TxbName"/>
+            </GroupBox>
+
+            <GroupBox Header="Введите дату:" BorderThickness="0">
+                <TextBox
+                    Name="TxbDate"/>
+            </GroupBox>
+
+            <GroupBox Header="Выберите тип корабля:" BorderThickness="0">
+                <ComboBox
+                    Name="CmbShip"/>
+            </GroupBox>
+
+            <GroupBox Header="Выберите порт остановки:" BorderThickness="0">
+                <ComboBox 
+                    Name="CmbPark"/>
+            </GroupBox>
+
+            <GroupBox Header="Введите время отплытия:" BorderThickness="0">
+                <TextBox
+                    Name="TxbTime"/>
+            </GroupBox>
+            
+            <GroupBox Header="Введите цену:" BorderThickness="0">
+                <TextBox
+                    Name="TxbPrice"/>
+            </GroupBox>
+
+            <GroupBox Header="Введите количество занятого места:" BorderThickness="0">
+                <TextBox
+                    Name="TxbOccupied"/>
+            </GroupBox>
+
+            <Button 
+                Name="BtnCreate"
+                Content="Создать круиз"
+                Click="BtnCreate_Click"
+                Style="{StaticResource BtnAll}"/>
+            <Button Name="BtnBack"
+                    Click="BtnBack_Click"
+                    Style="{StaticResource BtnAll}"
+                    Content="Назад" />
+        </StackPanel>
+    </Grid>
+</Page>

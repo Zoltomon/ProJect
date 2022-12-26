@@ -1,0 +1,61 @@
+﻿<Page x:Class="ShippingCompany.Page.DataView.DataViewCruise"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ShippingCompany.Page.DataView"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="900"
+      Title="DataViewCruise">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <DataGrid
+            AutoGenerateColumns="False"
+            IsReadOnly="True"
+            Name="GridListCruise"
+            Grid.Row="1"
+            Background="AliceBlue">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ИД" Width="*" Binding="{Binding IdCruise}"/>
+                <DataGridTextColumn Header="Путь" Width="*"  Binding="{Binding NameCruise}"/>
+                <DataGridTextColumn Header="Цена" Width="*" Binding="{Binding PriceCruise}"/>
+                <DataGridTextColumn Header="Тип корабля" Width="*"  Binding="{Binding ShipName}"/>
+                <DataGridTemplateColumn Header="Действие"
+                                        Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <StackPanel Orientation="Vertical">
+                                    <Button 
+                                        Style="{StaticResource BtnAll}"
+                                        Name="BtnDelete"
+                                        Click="BtnDelete_Click"
+                                        Content="Удалить"/>
+                                </StackPanel>
+                            </Grid>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Orientation="Horizontal">
+            <Button Content="Назад" Style="{StaticResource BtnAll}" Width="200" HorizontalAlignment="Right" Name="BtnBack" Click="BtnBack_Click"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="2">
+            <Button Content="Добавить круиз" Style="{StaticResource BtnAll}" Width="200" HorizontalAlignment="Left" Name="BtnCreateCruise" Click="BtnCreateCruise_Click_1"/>
+            <Button Content="Выделить все"  Style="{StaticResource BtnAll}" Width="200" Name="BtnAll" Click="BtnAll_Click"/>
+            <Button Content="Снять выделение"  Style="{StaticResource BtnAll}" Width="200" Name="BtnNotAll" Click="BtnNotAll_Click"/>
+        </StackPanel>
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Right">
+            <GroupBox Header="Введите Id" BorderThickness="0">
+                <TextBox Name="TxbIdCruise" Width="100" />
+            </GroupBox>
+            <Button Content="Найти" x:Name="BtnSearch" HorizontalAlignment="Right" Click="BtnSearch_Click" Style="{StaticResource BtnAll}" Width="100" Margin="3,10"/>
+        </StackPanel>
+    </Grid>
+</Page>

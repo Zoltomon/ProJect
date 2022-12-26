@@ -1,0 +1,337 @@
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\obj\Debug\ShippingCompany.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\obj\Debug\ShippingCompany.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\obj\Debug\Page\Login.g.cs
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\obj\Debug\ShippingCompany_MarkupCompile.cache
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\obj\Debug\ShippingCompany_MarkupCompile.lref
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\bin\Debug\ShippingCompany.exe.config
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\bin\Debug\ShippingCompany.exe
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\bin\Debug\ShippingCompany.pdb
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\obj\Debug\App.baml
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\obj\Debug\Page\Login.baml
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\obj\Debug\ShippingCompany.g.resources
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\obj\Debug\ShippingCompany.Properties.Resources.resources
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\obj\Debug\ShippingCompany.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\obj\Debug\ShippingCompany.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\obj\Debug\ShippingCompany.exe
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\obj\Debug\ShippingCompany.pdb
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\obj\Debug\Page\ViewData.g.cs
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\obj\Debug\Page\ViewData.baml
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\obj\Debug\Page\MenuAdmin.g.cs
+C:\Users\student\Desktop\Мяу\ShippingCompany\ShippingCompany\obj\Debug\Page\MenuAdmin.baml
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\ShippingCompany.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\MainWindow.g.cs
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\Page\Login.g.cs
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\Page\MenuAdd.g.cs
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\Page\MenuAdmin.g.cs
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\Page\ViewData.g.cs
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\App.g.cs
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\ShippingCompany_MarkupCompile.cache
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\ShippingCompany_MarkupCompile.lref
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\ShippingCompany.exe
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\ShippingCompany.pdb
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\bin\Debug\ShippingCompany.exe.config
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\bin\Debug\ShippingCompany.exe
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\bin\Debug\ShippingCompany.pdb
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\App.baml
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\MainWindow.baml
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\Page\Login.baml
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\Page\MenuAdd.baml
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\Page\MenuAdmin.baml
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\Page\ViewData.baml
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\ShippingCompany.g.resources
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\ShippingCompany.Properties.Resources.resources
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\ShippingCompany.csproj.GenerateResource.cache
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\ShippingCompany.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\ShippingCompany.csproj.CopyComplete
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\Page\ClientUser.g.cs
+C:\Users\user\Downloads\ShippingCompany (2)\ShippingCompany\ShippingCompany\obj\Debug\Page\ClientUser.baml
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\ShippingCompany.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\ShippingCompany.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\MainWindow.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\ClientUser.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\Login.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\MenuAdmin.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\App.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\ShippingCompany_MarkupCompile.cache
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\ShippingCompany_MarkupCompile.lref
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\ShippingCompany.exe
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\ShippingCompany.pdb
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\bin\Debug\ShippingCompany.exe.config
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\bin\Debug\ShippingCompany.exe
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\bin\Debug\ShippingCompany.pdb
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\App.baml
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\MainWindow.baml
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\ClientUser.baml
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\Login.baml
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\MenuAdmin.baml
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\ShippingCompany.g.resources
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\ShippingCompany.Properties.Resources.resources
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\ShippingCompany.csproj.GenerateResource.cache
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\ShippingCompany.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\ShippingCompany.csproj.CopyComplete
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\AddPage\AddUser.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\AddPage\AddUser.baml
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\DataView\ViewData.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\DataView\ViewData.baml
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\DataView\DataViewCruise.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\DataView\DataViewCruise.baml
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\AddPage\AddCruise.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\AddPage\AddCruise.baml
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\bin\Debug\ShippingCompany.exe.config
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\bin\Debug\ShippingCompany.exe
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\bin\Debug\ShippingCompany.pdb
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\ShippingCompany.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\MainWindow.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\AddPage\AddCruise.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\AddPage\AddUser.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\DataView\DataViewCruise.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\Login.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\MenuAdmin.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\DataView\ViewData.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\App.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\ShippingCompany_MarkupCompile.cache
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\ShippingCompany_MarkupCompile.lref
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\App.baml
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\MainWindow.baml
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\AddPage\AddCruise.baml
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\AddPage\AddUser.baml
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\DataView\DataViewCruise.baml
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\Login.baml
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\MenuAdmin.baml
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\DataView\ViewData.baml
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\ShippingCompany.g.resources
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\ShippingCompany.Properties.Resources.resources
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\ShippingCompany.csproj.GenerateResource.cache
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\ShippingCompany.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\ShippingCompany.csproj.CopyComplete
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\ShippingCompany.exe
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\ShippingCompany.pdb
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\DataView\ClientUser.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\DataView\DataCompany.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\Menuuser.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\DataView\ClientUser.baml
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\DataView\DataCompany.baml
+C:\Users\user\Downloads\ProjectMyGroup-master (2)\ProjectMyGroup-master\ProjectMyGroup-master\ShippingCompany\obj\Debug\Page\Menuuser.baml
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\MainWindow.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\AddPage\AddCruise.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\AddPage\AddUser.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\ClientUser.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\DataCompany.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\DataViewCruise.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\MenuPage\Menuuser.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\Login.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\MenuPage\MenuAdmin.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\ViewData.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\App.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany_MarkupCompile.cache
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany_MarkupCompile.lref
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.exe
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.pdb
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\bin\Debug\ShippingCompany.exe.config
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\bin\Debug\ShippingCompany.exe
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\bin\Debug\ShippingCompany.pdb
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\App.baml
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\MainWindow.baml
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\AddPage\AddCruise.baml
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\AddPage\AddUser.baml
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\ClientUser.baml
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\DataCompany.baml
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\DataViewCruise.baml
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\MenuPage\Menuuser.baml
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\Login.baml
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\MenuPage\MenuAdmin.baml
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\ViewData.baml
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.g.resources
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.Properties.Resources.resources
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.csproj.GenerateResource.cache
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.csproj.CopyComplete
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\Profile\UserProfile.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\Profile\UserProfile.baml
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\bin\Debug\ShippingCompany.exe.config
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\bin\Debug\ShippingCompany.exe
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\bin\Debug\ShippingCompany.pdb
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\AddPage\AddCruise.g.cs
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\AddPage\AddUser.g.cs
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\ClientUser.g.cs
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\DataCompany.g.cs
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\DataViewCruise.g.cs
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\MenuPage\Menuuser.g.cs
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\Login.g.cs
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\MenuPage\MenuAdmin.g.cs
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\ViewData.g.cs
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\Profile\UserProfile.g.cs
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\App.g.cs
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany_MarkupCompile.cache
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany_MarkupCompile.lref
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\App.baml
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\MainWindow.baml
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\AddPage\AddCruise.baml
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\AddPage\AddUser.baml
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\ClientUser.baml
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\DataCompany.baml
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\DataViewCruise.baml
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\MenuPage\Menuuser.baml
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\Login.baml
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\MenuPage\MenuAdmin.baml
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\ViewData.baml
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\Profile\UserProfile.baml
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.g.resources
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.Properties.Resources.resources
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.csproj.CopyComplete
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.exe
+C:\Users\admin\Downloads\ProjectMyGroup-main (2)\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.pdb
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\bin\Debug\ShippingCompany.exe.config
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\bin\Debug\ShippingCompany.exe
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\bin\Debug\ShippingCompany.pdb
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\MainWindow.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\AddPage\AddCruise.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\AddPage\AddUser.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\ClientUser.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\DataViewCruise.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\MenuPage\Menuuser.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\Login.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\MenuPage\MenuAdmin.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\ViewData.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\Profile\UserProfile.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\App.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany_MarkupCompile.cache
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany_MarkupCompile.lref
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\App.baml
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\MainWindow.baml
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\AddPage\AddCruise.baml
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\AddPage\AddUser.baml
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\ClientUser.baml
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\DataViewCruise.baml
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\MenuPage\Menuuser.baml
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\Login.baml
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\MenuPage\MenuAdmin.baml
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\ViewData.baml
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\Profile\UserProfile.baml
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.g.resources
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.Properties.Resources.resources
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.csproj.GenerateResource.cache
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.csproj.CopyComplete
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.exe
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\ShippingCompany.pdb
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\ViewInfoPort.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\Registration.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\ViewInfoPort.baml
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\Registration.baml
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\ViewInfoShip.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-main\ProjectMyGroup-main\ShippingCompany\obj\Debug\Page\DataView\ViewInfoShip.baml
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\bin\Debug\ShippingCompany.exe.config
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\bin\Debug\ShippingCompany.exe
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\bin\Debug\ShippingCompany.pdb
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\ShippingCompany.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\ShippingCompany.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\MainWindow.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\AddPage\AddCruise.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\AddPage\AddPort.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\AddPage\AddUser.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\DataView\ClientUser.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\DataView\DataViewCruise.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\DataView\ViewInfoPort.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\DataView\ViewInfoShip.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\MenuPage\Menuuser.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\Login.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\MenuPage\MenuAdmin.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\DataView\ViewData.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\Profile\UserProfile.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\App.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\ShippingCompany_MarkupCompile.cache
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\ShippingCompany_MarkupCompile.lref
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\App.baml
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\MainWindow.baml
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\AddPage\AddCruise.baml
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\AddPage\AddPort.baml
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\AddPage\AddUser.baml
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\DataView\ClientUser.baml
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\DataView\DataViewCruise.baml
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\DataView\ViewInfoPort.baml
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\DataView\ViewInfoShip.baml
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\MenuPage\Menuuser.baml
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\Login.baml
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\MenuPage\MenuAdmin.baml
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\DataView\ViewData.baml
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\Profile\UserProfile.baml
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\ShippingCompany.g.resources
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\ShippingCompany.Properties.Resources.resources
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\ShippingCompany.csproj.GenerateResource.cache
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\ShippingCompany.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\ShippingCompany.csproj.CopyComplete
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\ShippingCompany.exe
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\ShippingCompany.pdb
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\Registration.g.cs
+C:\Users\student\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\Registration.baml
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\bin\Debug\ShippingCompany.exe.config
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\bin\Debug\ShippingCompany.exe
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\bin\Debug\ShippingCompany.pdb
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\ShippingCompany.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\MainWindow.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\AddPage\AddCruise.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\AddPage\AddPort.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\AddPage\AddUser.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\DataView\ClientUser.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\DataView\DataViewCruise.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\DataView\ViewInfoPort.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\DataView\ViewInfoShip.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\MenuPage\Menuuser.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\Login.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\MenuPage\MenuAdmin.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\DataView\ViewData.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\Registration.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\App.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\ShippingCompany_MarkupCompile.cache
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\ShippingCompany_MarkupCompile.lref
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\App.baml
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\MainWindow.baml
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\AddPage\AddCruise.baml
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\AddPage\AddPort.baml
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\AddPage\AddUser.baml
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\DataView\ClientUser.baml
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\DataView\DataViewCruise.baml
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\DataView\ViewInfoPort.baml
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\DataView\ViewInfoShip.baml
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\MenuPage\Menuuser.baml
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\Login.baml
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\MenuPage\MenuAdmin.baml
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\DataView\ViewData.baml
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\Registration.baml
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\ShippingCompany.g.resources
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\ShippingCompany.Properties.Resources.resources
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\ShippingCompany.csproj.GenerateResource.cache
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\ShippingCompany.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\ShippingCompany.csproj.CopyComplete
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\ShippingCompany.exe
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\ShippingCompany.pdb
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\AddPage\AddShip.g.cs
+C:\Users\user\Downloads\ProjectMyGroup-New\ProjectMyGroup-New\ShippingCompany\obj\Debug\Page\AddPage\AddShip.baml

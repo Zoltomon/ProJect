@@ -1,0 +1,48 @@
+﻿<Page x:Class="ShippingCompany.Page.AddPage.AddUser"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ShippingCompany.Page.AddPage"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddUser">
+
+    <Grid>
+        <StackPanel Width="320"
+                    VerticalAlignment="Center">
+            <GroupBox Header="Введите логин:" BorderThickness="0">
+                <TextBox
+                    Name="TxbLogin"/>
+            </GroupBox>
+            <GroupBox Header="Введите ФИО:" BorderThickness="0">
+                <TextBox
+                    Name="TxbName"/>
+            </GroupBox>
+            <GroupBox Header="Введите телефон:" BorderThickness="0">
+                <TextBox
+                    Name="TxbTelephone"/>
+            </GroupBox>
+
+            <GroupBox Header="Введите пароль:" BorderThickness="0">
+                <PasswordBox
+                    Name="PsbPassword"/>
+            </GroupBox>
+
+            <GroupBox Header="Выберите роль:" BorderThickness="0">
+                <ComboBox 
+                    Name="CmbSelectRole"/>
+            </GroupBox>
+
+            <Button 
+                Name="BtnCreate"
+                Content="Создать пользователя"
+                Click="BtnCreate_Click"
+                Style="{StaticResource BtnAll}"/>
+            <Button Name="BtnBack"
+                    Style="{StaticResource BtnAll}"
+                    Click="BtnBack_Click"
+                    Content="Назад" />
+        </StackPanel>
+    </Grid>
+</Page>
